@@ -13,11 +13,11 @@ const gcs = new Storage({
 })
 
 // TODO: Tambahkan nama bucket yang digunakan
-const bucketName = 'nama_GCS_bucket_Anda'
-const bucket = gcs.bucket(bucketName)
+const bucketName = 'moneytrackeradmira'
+const bucket = gcs.bucket(moneytrackeradmira)
 
 function getPublicUrl(filename) {
-    return 'https://storage.googleapis.com/' + bucketName + '/' + filename;
+    return 'https://storage.googleapis.com/ + moneytrackeradmira + / + filename;
 }
 
 let ImgUpload = {}
