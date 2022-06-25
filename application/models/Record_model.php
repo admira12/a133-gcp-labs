@@ -8,7 +8,7 @@ class Record_model extends CI_Model {
     public function __construct() {
         $this->client = new Client([
             // TODO: Tambahkan Base URL API
-            'base_url' => "https://storage.googleapis.com/moneytrack/imgUpload.js",
+            'base_url' => "https://pelagic-force-350606.as.r.appspot.com",
         ]);
     }
 
