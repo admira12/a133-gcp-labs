@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'https://pelagic-force-350606.as.r.appspot.com/';
+$config['base_url'] = 'https://pelagic-force-350606.as.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
