@@ -24,7 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'https://storage.googleapis.com/moneytrack/';
+// $config['base_url'] = 'https://storage.googleapis.com/moneytrack/';
+$config['base_url'] = 'asia.artifacts.pelagic-force-350606.appspot.com';
+ 
 
 /*
 |--------------------------------------------------------------------------
